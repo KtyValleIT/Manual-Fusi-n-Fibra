@@ -63,6 +63,7 @@ Manual técnico-pedagógico para usar en el banco de trabajo, desde el celular o
 ### Paso 1: Preparar el protector
 
 ![Esquema del protector](assets/img/paso-protector.png)
+
 Desliza el protector de empalme (heat shrink) por una de las fibras **antes de pelar**.
 
 > [!TIP]
