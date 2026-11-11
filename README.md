@@ -47,6 +47,7 @@ Manual técnico-pedagógico para usar en el banco de trabajo, desde el celular o
 
 ![Esquema de seguridad](assets/img/paso-seguridad.png)
 
+
 > [!WARNING]
 > Los restos de fibra son fragmentos de vidrio microscópicos. Pueden clavarse en la piel o en los ojos y casi no se ven.
 
