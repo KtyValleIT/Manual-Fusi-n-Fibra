@@ -2,9 +2,9 @@
 
 Manual técnico-pedagógico para usar en el banco de trabajo, desde el celular o el notebook.
 
-**Asignatura:** Infraestructura de Redes (TCB304) | **Sede:** La Serena | **INACAP**
+**Asignatura:** Infraestructura de Redes (TCB304) | **Sede:** La Serena | 
 
-**Autora:** [Tu nombre completo]
+**Autora:** [Katherine Valle T.]
 
 ---
 
