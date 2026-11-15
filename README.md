@@ -163,8 +163,13 @@ Desliza el protector de empalme (heat shrink) por una de las fibras **antes de p
 
 ---
 
-## 5. Reflexión final
+## 5. Reflexión Técnica y Aprendizaje Práctico
 
-- **Qué salió bien:** [...]
-- **Qué dificultades tuve:** [...]
-- **Qué mejoraría:** [...]
+Al presenciar nuestra primera práctica de fusión de fibra óptica por parte de nuestro docente, pudimos corroborar en terreno lo documentado en este manual, desde la función crítica de las capas de protección y la cubierta exterior (*jacket*) para resguardar el núcleo de vidrio, hasta la precisión requerida en el corte plano (*cleaving*) y la limpieza de la fibra antes de la alineación de los núcleos. El uso adecuado de las herramientas siempre debe ir acompañado de una verificación inmediata mediante la propia fusionadora, ya que cualquier anomalía o pérdida alta de decibelios (*dB*) debe rectificarse al instante, incluso si eso implica cortar y comenzar todo el proceso de nuevo. 
+
+En la demostración se logró una pérdida estimada de **0,02 dB**, un valor óptimo dentro de los parámetros de referencia, teniendo siempre presente que corresponde a una estimación algorítmica del equipo y no a una certificación directa con medidor de potencia óptica. Una vez validado el empalme, se procedió a su sellado térmico utilizando el manguito termocontraíble con varilla metálica (*heat shrink sleeve*), recordando siempre deslizarlo por la fibra antes de pelar y cortar para no dañar el hilo desnudo. 
+
+Para seguir mejorando mi desempeño práctico, el siguiente paso es ensayar el pelado (*stripping*) con tramos de fibra de descarte para ganar precisión manual y evitar microfracturas. Contar con esta guía técnica y la experiencia práctica es fundamental para nosotros como futuros profesionales del área de telecomunicaciones, puesto que una falta de prolijidad en las redes actuales —como en el despliegue de infraestructuras FTTx (Fiber to the x) o GPON (Gigabit Passive Optical Network) se traduce directamente en problemas de atenuación o pérdidas masivas de datos a gran escala. Por todo esto, la práctica constante y el rigor técnico deben ser siempre una prioridad en nuestra formación como profesionales de TI.
+
+---
+*Documentación elaborada como parte de las prácticas de Infraestructura de Redes — Noviembre 2026.*
