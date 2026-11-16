@@ -199,7 +199,7 @@ Los cables de exterior suelen llevar una chaqueta resistente y elementos de refu
 | Mayor a 0,30 dB | Repetir el empalme |
 
 > [!NOTE]
-> Los umbrales exactos dependen de la norma o del criterio del docente. Ajusta esta tabla a lo que se haya indicado en clases.
+> Los umbrales exactos dependen de la norma del proyecto o del criterio del docente.
 
 **Cómo se obtiene la pérdida:** la fusionadora la estima a partir de la imagen de las fibras (alineación, ángulo y deformación). No reemplaza una medición con medidor de potencia y fuente de luz, ni con un OTDR.
 
