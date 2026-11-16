@@ -2,7 +2,7 @@
 
 Manual técnico-pedagógico para usar en el banco de trabajo, desde el celular o el notebook.
 
-**Asignatura:** Infraestructura de Redes (TCB304) | **Sede:** La Serena | **INACAP**
+**Asignatura:** Infraestructura de Redes (TCB304) | **Sede:** La Serena | 
 
 **Autora:** Katherine Valle T.
 
@@ -242,5 +242,4 @@ Al observar la primera práctica de fusión de fibra realizada por nuestro docen
 - ANSI/TIA-568: cableado de telecomunicaciones, incluye criterios de pérdida por empalme.
 - Demostración del docente y manuales de las herramientas usadas.
 
-> [!NOTE]
-> Confirma con el docente qué normas considera para el curso.
+
